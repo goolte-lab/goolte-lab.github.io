@@ -1,0 +1,14 @@
+apiVersion: v1
+entries:
+  helm-chart-test:
+  - apiVersion: v2
+    appVersion: 1.16.0
+    created: "2021-10-12T18:02:47.950024-04:00"
+    description: A Helm chart for Kubernetes
+    digest: 637ff133c03ad85d8115a1229175fce00968fd3cc4472a5031135a5a0eaa5ac6
+    name: helm-chart-test
+    type: application
+    urls:
+    - https://goolte-lab.github.io/helm-charts/helm-chart-test-0.1.0.tgz
+    version: 0.1.0
+generated: "2021-10-12T18:02:47.9470255-04:00"
