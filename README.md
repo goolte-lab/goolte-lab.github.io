@@ -1,5 +1,6 @@
 # goolte-lab.github.io
-
+<pre>
+create repo name as username.github.io 
 git clone https://github.com/goolte-lab/goolte-lab.github.io
 cd goolte-lab.github.io/
 echo "hell World" > index.html
@@ -21,3 +22,4 @@ cd ..
 git add --all
 git commit -m "init"
 git push -u origin main
+</pre>
